@@ -12,7 +12,7 @@
 *.lib
 
 # Executables
-*.exe
+
 *.out
 *.app
 *.ipa
