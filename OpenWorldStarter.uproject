@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{10480986-46E2-FBF0-5886-53BFCB8DEE95}",
+	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -52,6 +52,21 @@
 				"Mac",
 				"Linux"
 			]
+<<<<<<< Updated upstream
+=======
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
+>>>>>>> Stashed changes
 		}
 	],
 	"TargetPlatforms": [
