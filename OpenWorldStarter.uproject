@@ -61,10 +61,7 @@
 			"Name": "Water",
 			"Enabled": true
 		},
-		{
-			"Name": "VivoxCore",
-			"Enabled": true
-		}
+		
 	],
 	"TargetPlatforms": [
 		"WindowsNoEditor",
