@@ -7,9 +7,7 @@
 #include "OWSGameInstance.h"
 #include "MyOWSvivoxGameInstance.generated.h"
 
-/**
- * 
- */
+
 UCLASS()
 class OPENWORLDSTARTER_API UMyOWSvivoxGameInstance : public UOWSGameInstance
 {
